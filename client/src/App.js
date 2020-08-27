@@ -31,7 +31,7 @@ export default function App() {
               <th>ID</th>
               <th>First Name</th>
               <th>Last Name</th>
-              <th>Username</th>
+              <th>Age</th>
               <th>Email</th>
             </tr>
             </thead>
