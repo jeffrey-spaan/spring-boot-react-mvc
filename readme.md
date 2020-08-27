@@ -19,6 +19,11 @@ The use of UI components eases the development and reduces the development time 
 <br />
 
 ## Getting Started
+Create your project folder on your hard-drive, for this example we will use: ```spring-boot-javax-validation\server```<br /><br />
+![Project folder](https://raw.githubusercontent.com/jeffrey-spaan/spring-boot-react-mvc/master/images/01-folderstructure.JPG)
+
+<br />
+
 In your browser, navigate to: [https://start.spring.io](https://start.spring.io)<br />
 * **Project:** ```Maven Project```<br />
 * **Language:** ```Java```<br />
@@ -32,7 +37,7 @@ In your browser, navigate to: [https://start.spring.io](https://start.spring.io)
 
 To create the Spring Boot application, click on: ![Generate Spring Boot Project](https://raw.githubusercontent.com/jeffrey-spaan/spring-boot-react-mvc/master/images/03-generate.JPG)
 
-![Spring Boot Dependency Selection](https://raw.githubusercontent.com/jeffrey-spaan/spring-boot-react-mvc/master/images/02-startspringio.JPG)
+![Spring Boot Dependency Selection](https://raw.githubusercontent.com/jeffrey-spaan/spring-boot-react-mvc/master/images/02-start-spring-io.JPG)
 
 The download of the ZIP file will start automatically. Open the ZIP file and extract the project files in your project folder.<br />
 
