@@ -19,7 +19,7 @@ The use of UI components eases the development and reduces the development time 
 <br />
 
 ## Getting Started
-Create your project folder on your hard-drive, for this example we will use: ```spring-boot-javax-validation\server```<br /><br />
+Create your project folder on your hard-drive, for this example we will use: ```spring-boot-react-mvc\server```<br /><br />
 ![Project folder](https://raw.githubusercontent.com/jeffrey-spaan/spring-boot-react-mvc/master/images/01-folderstructure.JPG)
 
 <br />
